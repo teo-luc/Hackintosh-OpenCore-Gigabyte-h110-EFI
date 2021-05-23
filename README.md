@@ -10,7 +10,7 @@
 ## Kext:
 * ACPIDebug (0.1.4)
 * AppleALC (1.6.0)
-* AtherosE2200Ethernet 2.2.2)
+* AtherosE2200Ethernet (2.2.2)
 * CPUFriend (1.2.3)
 * FakeSMC (6.26)
 * HibernationFixup (1.4.0)
