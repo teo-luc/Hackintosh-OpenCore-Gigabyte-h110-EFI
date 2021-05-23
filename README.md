@@ -2,7 +2,8 @@
 
 ## Specs:
 * Mainboard: Gigabyte h110-D3A
-* CPU: Intel core i5-8400 (Coffee Lake) (link)
+* CPU: Intel core i5-8400 (Coffee Lake) 
+  https://dortania.github.io/OpenCore-Install-Guide/config.plist/#intel-desktop
 * Mainboard: Gigabyte H110-D3A
 * VGA: Radeon Rx580
 ## Open Core:
