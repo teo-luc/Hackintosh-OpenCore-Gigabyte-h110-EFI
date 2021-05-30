@@ -23,3 +23,4 @@
 * WhateverGreen.kext (1.4.9)
 ## Other
 * Clover EFI
+* OpenCore Sanity Checker: https://opencore.slowgeek.com
