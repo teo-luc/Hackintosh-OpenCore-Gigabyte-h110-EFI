@@ -24,3 +24,7 @@
 ## Other
 * Clover EFI
 * OpenCore Sanity Checker: https://opencore.slowgeek.com
+# USB Port (Gigabyte h110-D3A only): https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html
+T:11,13,14:3
+T:5,6,9,10:2
+T:7:255
