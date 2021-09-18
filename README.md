@@ -7,7 +7,7 @@
 * Mainboard: Gigabyte H110-D3A
 * VGA: Radeon Rx580
 ## Open Core:
-* Version: 0.6.9
+* Version: 0.7.3
 ## Kext:
 * ACPIDebug (0.1.4)
 * AppleALC (1.6.0)
